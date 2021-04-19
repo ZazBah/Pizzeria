@@ -36,7 +36,7 @@ body{
 
 .bd1{
     height: 500px;
-    background: url('image/bg-5.jpg');
+    background: url('/image/bg-5.jpg');
     background-size:  cover;
 }
 .bd1-header1{

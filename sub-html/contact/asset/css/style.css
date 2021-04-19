@@ -36,7 +36,7 @@ body{
 
 .cd1{
     height: 1000px;
-    background: url('image/bg-4.jpg');
+    background: url('/image/bg-4.jpg');
     background-size:  108%;
 }
 .cd1-header1{
